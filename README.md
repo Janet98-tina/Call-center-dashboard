@@ -25,10 +25,6 @@ The dashboard includes:
 - Power BI (Data visualization)
 - Excel/CSV (Data source)
 
-##  Dashboard Preview
-
-![Dashboard Preview](call_center.PNG)
-
 
 ## File
 

@@ -27,7 +27,7 @@ The dashboard includes:
 
 ##  Dashboard Preview
 
-(call_center.PNG)
+[call center.PNG](call_center.PNG)
 
 ## File
 

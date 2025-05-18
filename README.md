@@ -25,7 +25,9 @@ The dashboard includes:
 - Excel/CSV (Data source)  
 
 #File
+- 'call center dashboard.pbix' — The Power BI dashboard file
+  
 
-- 'call center dashboard.pbix' — The Power BI dashboard file  
 
-Note: This dashboard was developed for portfolio purposes using anonymized data.*
+
+Note: This dashboard was developed for portfolio purposes using anonymized data.
